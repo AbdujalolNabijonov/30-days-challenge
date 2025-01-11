@@ -1,0 +1,17 @@
+{
+  "name": "30-days-challenge",
+  "version": "1.0.0",
+  "description": "This is challenge for 30days\u001b[D\u001b[D\u001b[D\u001b[D d\u001b[C\u001b[Days",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"ts-node 1-day.ts",
+    "dev":"nodemon --exec ts-node 1-day.ts"
+  },
+  "author": "Abdujalol",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  }
+}
