@@ -4,8 +4,8 @@
   "description": "This is challenge for 30Days",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"ts-node src/1-day.ts",
-    "dev":"nodemon --exec ts-node src/1-day.ts"
+    "start":"ts-node src/2-day.ts",
+    "dev":"nodemon --exec ts-node src/2-day.ts"
   },
   "author": "Abdujalol",
   "license": "ISC",
